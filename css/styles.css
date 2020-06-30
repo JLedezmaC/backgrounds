@@ -1,0 +1,49 @@
+h2.Hello{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 20 px;
+}
+
+body{
+    background-color:yellow;
+    height: 500px;
+}
+
+p{
+    color:darkblue;
+    font-style: italic;
+    text-align: center;
+}
+
+p.Type2{
+    text-transform: capitalize;
+    font-size: 20px;
+    font-weight:bolder;
+}
+
+h2#Tomato{
+    letter-spacing: 6px;
+    font-size: large;
+    font-size: 30px;
+}
+
+#Thing{
+    height: 500px;
+    background-color:lightskyblue;
+    background-image: url('../img/css.jpg');
+    background-repeat: no-repeat;
+    background-position: center top;
+
+}
+
+h1.Rice{
+    text-decoration: underline;
+}
+
+p.sanserif{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p.serif{
+    font-family: "Times New Roman", Times, serif;
+}
